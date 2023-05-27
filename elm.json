@@ -11,6 +11,7 @@
             "elm/html": "1.0.0",
             "elm/url": "1.0.0",
             "elm-community/typed-svg": "7.0.0",
+            "folkertdev/one-true-path-experiment": "6.0.0",
             "gampleman/elm-visualization": "2.3.0"
         },
         "indirect": {
@@ -23,7 +24,6 @@
             "elm/virtual-dom": "1.0.3",
             "elm-community/list-extra": "8.7.0",
             "folkertdev/elm-deque": "3.0.1",
-            "folkertdev/one-true-path-experiment": "6.0.0",
             "folkertdev/svg-path-lowlevel": "4.0.1",
             "ianmackenzie/elm-1d-parameter": "1.0.1",
             "ianmackenzie/elm-float-extra": "1.1.0",
